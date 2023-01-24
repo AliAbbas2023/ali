@@ -20,23 +20,24 @@
 
 
 // object Literals
-const arrStu=[
- {
-    firstName: "alice",
-    lastName: "bob",
-    age: 23
- },
- {
-    firstName: "jone",
-    lastName: "dude",
-    age: 20
- },{
-    firstName: "als",
-    lastName: "babble",
-    age: 56
- }
-];
+// const arrayOfStudents = [
+//  {
+//     firstName: "alice",
+//     lastName: "bob",
+//     age: 23
+//  },
+//  {
+//     firstName: "jone",
+//     lastName: "dude",
+//     age: 20
+//  },{
+//     firstName: "als",
+//     lastName: "babble",
+//     age: 56
+//  }
+// ];
 
+// console.log("my array of students", arrayOfStudents)
 // const output = arrStu.reduce(function(acc,current){
 //    console.log(++acc[current.age])
 //    return acc+current.age;
