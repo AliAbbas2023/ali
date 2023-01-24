@@ -1,3 +1,4 @@
+//Learn more about
 //Getting know about var let and const
 // function start() {
 //     for (var i = 0;i < 5; i++) {
@@ -92,7 +93,7 @@ const obj1 = {
    key2: null,
    key3: 'value 1.3',
    key4: ''
-   
+
  };
  
  const obj2 = {
