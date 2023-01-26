@@ -1,4 +1,5 @@
 // alert("hello")
+//basics javascript
 
 // console.log("interestRate")
 

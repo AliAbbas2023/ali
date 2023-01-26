@@ -1,3 +1,4 @@
+//Learn more about
 //Getting know about var let and const
 // function start() {
 //     for (var i = 0;i < 5; i++) {
@@ -19,23 +20,24 @@
 
 
 // object Literals
-const arrStu=[
- {
-    firstName: "alice",
-    lastName: "bob",
-    age: 23
- },
- {
-    firstName: "jone",
-    lastName: "dude",
-    age: 20
- },{
-    firstName: "als",
-    lastName: "babble",
-    age: 56
- }
-];
+// const arrayOfStudents = [
+//  {
+//     firstName: "alice",
+//     lastName: "bob",
+//     age: 23
+//  },
+//  {
+//     firstName: "jone",
+//     lastName: "dude",
+//     age: 20
+//  },{
+//     firstName: "als",
+//     lastName: "babble",
+//     age: 56
+//  }
+// ];
 
+// console.log("my array of students", arrayOfStudents)
 // const output = arrStu.reduce(function(acc,current){
 //    console.log(++acc[current.age])
 //    return acc+current.age;
@@ -92,7 +94,7 @@ const obj1 = {
    key2: null,
    key3: 'value 1.3',
    key4: ''
-   
+
  };
  
  const obj2 = {
